@@ -1,6 +1,3 @@
-# day3_flutter2
-
-A new Flutter application.
 
 ## Getting Started
 
